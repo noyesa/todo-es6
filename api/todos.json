@@ -1,0 +1,16 @@
+{
+  "todos": [
+    {
+      "id": 0,
+      "done": false,
+      "title": "Write this cool app",
+      "description": "I'm writing this really cool app where I'm actually creating all the code, and using almost no libraries"
+    },
+    {
+      "id": 1,
+      "done": true,
+      "title": "Rule at everything",
+      "description": "Already done because I'm amazing."
+    }
+  ]
+}
